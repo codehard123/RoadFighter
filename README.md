@@ -21,11 +21,14 @@ Road Fighter is a car-based arcade game developed by Konami and released in 1984
 <img src="Readme_images/My_Game.JPG" height="400">
 + Things still needed to work upon
  
-    1. Other emeemy cars
+    1. Other enemy cars
     2. Progress bar
     3. Acceleration and Deacceleration
     4. Road Turnings
     5. Audio effects
     6. Multiple levels
     7. Speed and Progress indicator
-    8. Camer Appearance
+    8. Cameo Appearance
+
+
+The Project is live and can be seen at https://roadfighter.imfast.io/ . I don't know why the background and the road is not visible when viewed online.
