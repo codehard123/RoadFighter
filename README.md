@@ -18,7 +18,7 @@ Road Fighter is a car-based arcade game developed by Konami and released in 1984
     7. Cameo appearence of Konami Man
     8. Speed and Progress indicator
     
-<img src="My_Game.jpg" height="400">
+<img src="Readme_images/My_Game.jpg" height="400">
 + Things still needed to work upon
  
     1. Other emeemy cars
